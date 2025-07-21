@@ -36,7 +36,7 @@ image processing and object tracking.
 
 <h3>Clone the Repository</h3>
 <pre><code>cd ~/ros2_ws/src/
-git clone --recurse-submodules https://github.com/noshluk2/ROS2-Drone-Basic-Course-for-Beginners
+git clone --recurse-submodules https://github.com/rahulpanchall7/Autonomous-Drone-Vehicle-Following-System.git
 </code></pre>
 
 <h3>Build the Workspace</h3>
