@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Autonomous Drone-Vehicle Following System</title>
-</head>
 <body>
 
 <h1>Autonomous Drone-Vehicle Following System</h1>
